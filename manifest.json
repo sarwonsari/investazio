@@ -1,0 +1,38 @@
+{
+  "name": "Investazio",
+  "short_name": "Investazio",
+  "start_url": "https://www.investazio.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Media Inspirasi, Tips, dan Artikel Menarik Lainnya.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSq64MmkuvfhQxpxW0WpiKZiFE-SIBxJtyXRp9c8iTFv-JwVMMvcSCM4Ds3fa-va3rGOQndIhEG7cpDrYnmAEsxo5ycFOsqzZGWNL7Ifs0rEwsycGPotn5Wf9AucNfcJk623hFdySKeKaoxZxnoSW6ttcEaiVXiyaWhcMaf6Qk0fr7UwYWT7nlqfVSqA/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7L3I4B-q6HKL7MthFNgUWNp1atqZ8JkhN6PoZnhMYf2rqTBOtPLH9DXCHKgpJvy9ohvpnFox9Uw3XXEJqGfGE5vMfzWHIOga8Wrcv_AIyjn8otUHFul_OyGIMQpXtharzw75gXoZ98Vc30YbpVEBasMNdHSKjp_mwhWzG9upAXFnF7hdY8txEYGdP8A/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9v9HJ26NB0rO6IJsZYQE5jbkqSESeIQ0rNL1Qbf87AnrD9zYReXJeDOpGYMAiY2Xg93XoSoS9vsYRkrcGHefVR3B7UgS0pCzxrMKQi-Gb09_bfCIp-WyCgSVyqJjKHc93Y9SrF9Yiu5EySzJuPoySUmebpotFLCY2hUqZieNUVNT52_kawwndxF9mhg/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIltdqg0F5d9n7nFdN-vqJuAOse0aVF9DUCUXVC1RGvOznL-OYXr5ckqvmBowh5017GjO1h-cktVgetQpsRaO4I6s43VnRdbnIZPBl3j56VTR4i1nqdZF02xW4dfu5trAZeSPwR_0RMeKAG4wkOujZaLs7lPP95lKtZJV26DRr6Mxd7X30GBlp8VpWRw/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp35Nr4ElckPB35jomMLOvESc_5iMMf3cE7c-4Pg8RWBz2eF1H4UG4T-JA5oZ0g0SPSgFJhqS6ofr605MwVRgi4nHRPLbxiNlKypHtva7NbeMMFU8fxrteiXO6P0XAt4SgqYoZrsYFhKsEIxGKM143aA4LDiEfSWN7xfP-iz4hikq-vM9WE9uxSw0UZQ/s1600/apple-icon-152x152.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghbQk77VyUFttxPXcr4IkIH9MFE2cl2Unis7BQuJBN4CsgsgphmKuq5JqgHdIr7YIOYt3Opk-TCnys1uX-Tip-TbryOLwu05wnaVq9w7F_o8EcAvS7pytyfmMnJSYWr3rvxFFxADaDq1RgpV8ifXE76Qa-a9U5r2V1OEW29-mwtOjaPlmqWZ7zKLwr2A/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOBOXAhD39ZldjihRxxFwVc6AwIjO8NuxW-qgyOOwGx09NU0jD31I8C1QV7KgLr4djYmzSsf1qWxSs3fvpgEzN32jb4rJI_uhVRtJRu3nMYbHuDHDnN1u9Q1cdsARuOQ3DNWW831aq44_Wf_IyMPq0vQ6lz-K9A4Y-vmoE_QieiiXTyRgXROGjeoIZTQ/s1600/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
